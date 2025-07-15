@@ -5,3 +5,4 @@ Pillow
 requests
 torch==0.4.0
 tensorflow
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
